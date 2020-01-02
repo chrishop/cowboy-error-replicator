@@ -1,0 +1,2 @@
+defmodule CowboyErrorReplicatorTest do
+end
